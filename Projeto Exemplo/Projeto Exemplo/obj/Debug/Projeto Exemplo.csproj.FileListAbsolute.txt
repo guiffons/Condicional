@@ -1,0 +1,11 @@
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\bin\Debug\Projeto Exemplo.exe.config
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\bin\Debug\Projeto Exemplo.exe
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\bin\Debug\Projeto Exemplo.pdb
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\obj\Debug\Projeto Exemplo.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\obj\Debug\Projeto_Exemplo.Form1.resources
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\obj\Debug\Projeto_Exemplo.Properties.Resources.resources
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\obj\Debug\Projeto Exemplo.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\obj\Debug\Projeto Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\obj\Debug\Projeto Exemplo.exe
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\obj\Debug\Projeto Exemplo.pdb
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\Projeto Exemplo\Projeto Exemplo\obj\Debug\Projeto_Exemplo.Form2.resources

@@ -1,0 +1,11 @@
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\bin\Debug\AulaNivia Condicional.exe.config
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\bin\Debug\AulaNivia Condicional.exe
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\bin\Debug\AulaNivia Condicional.pdb
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\obj\Debug\AulaNivia_Condicional.Form1.resources
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\obj\Debug\AulaNivia_Condicional.Form2.resources
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\obj\Debug\AulaNivia_Condicional.Properties.Resources.resources
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.exe
+C:\Users\2jd\Documents\Guilherme Fonseca Guilherme Santos\AulaNivia Condicional\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.pdb
